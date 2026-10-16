@@ -3,6 +3,7 @@
 ## Deadline
 
 <!-- Place the date here. -->
+- Ing4 CYB Gr02 (fr): 11/12/2026 at 11:59:59 PM.
 
 ## Opportunities
 
