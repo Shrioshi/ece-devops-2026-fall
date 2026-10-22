@@ -168,7 +168,6 @@ List of bonus tasks proposed:
 | Orchestration with Docker Compose                               |   DC      |    +1     |
 | Orchestration with Kubernetes	                                  |   KUB     |    +2     |
 | Infrastructure as code using Ansible                            |   IAC     |    +3     |
-| Monitoring                                                      |   MON     |    +2     |
 | Accurate project documentation in README.md file                |   DOC     |    +3     |
 | Service mesh using Istio (BONUS)                                |   IST     |    +1     |
 | Monitoring (BONUS)                                              |   MON     |    +1     |
