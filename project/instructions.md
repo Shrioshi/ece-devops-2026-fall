@@ -43,7 +43,7 @@ Configure and apply CI/CD (including deployment) pipeline using any platforms (G
   - database
   - your application (use [sync folders](https://www.vagrantup.com/docs/synced-folders))
   - health check of your application
-3. Start your application onto your browser
+3. Launch your application in your browser
 
 ### 4. Build Docker image of your application
 
@@ -144,8 +144,8 @@ Every initiative will be counted, just don't forget to describe it in your `READ
 
 List of bonus tasks proposed:
 
-1. Using Prometheus and Grafana to monitor your k8s cluster.
-2. Create an [Helm Chart](https://helm.sh/docs/intro/introduction) to deploy your application on k8s cluster. 
+1. Using Prometheus and Grafana to monitor your kubernetes cluster.
+2. Create an [Helm Chart](https://helm.sh/docs/intro/introduction) to deploy your application on kubernetes cluster. 
 3. [Securing microservice communication](https://istio.io/latest/docs/tasks/security/) or any other task with Istio.
 6. Etc.
 
